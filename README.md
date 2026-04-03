@@ -24,7 +24,14 @@ This is a React-based Personal Finance Dashboard. It allows users to track their
 
 To run this project locally, follows these standard steps:
 
-1. Extract the project folder and open your terminal.
+1. Download project and open your terminal.
 2. Navigate into the project directory:
    ```bash
    cd finance-dashboard
+3. Install the required dependencies:
+   ```bash
+   npm install
+4. Start the vite development server:
+   ```bash
+   npm run dev
+5. open your browser and navigate to `http://localhost:5173` to view the dashboard.
